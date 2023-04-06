@@ -318,4 +318,10 @@
 
     <!-- Whether device supports increased touch sensitvity -->
     <bool name="config_supportGloveMode">true</bool>
+
+    <!-- Exempt ImsService from privacy (location) indicators -->
+    <string name="config_systemTelephonyPackage" translatable="false">com.shannon.imsservice</string>
+
+    <!-- Whether Google Camera needs seinfo to access accelerators -->
+    <bool name="config_GoogleCamera_needs_seinfo_for_access_to_accelerators">true</bool>
   </resources>
