@@ -42,6 +42,7 @@ ifneq ($(filter cheetah felix panther, $(TARGET_PRODUCT)),)
   include device/google/gs-common/bcmbt/dump/dumplog.mk
 endif
 include device/google/gs-common/fingerprint/fingerprint.mk
+include device/google/gs201/overlays/build.mk
 
 TARGET_BOARD_PLATFORM := gs201
 

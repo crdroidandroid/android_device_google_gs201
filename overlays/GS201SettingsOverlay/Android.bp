@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "GS201SettingsOverlay",
+    product_specific: true,
+}
