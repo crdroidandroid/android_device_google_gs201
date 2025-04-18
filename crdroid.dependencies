@@ -3,11 +3,5 @@
         "repository": "crdroidandroid/android_device_google_gs101",
         "target_path": "device/google/gs101",
         "branch": "15.0"
-    },
-    {
-        "repository": "device/google/lynx-kernels/5.10",
-        "target_path": "device/google/lynx-kernels/5.10",
-        "remote": "aosp-lynx",
-        "branch": "refs/tags/android-15.0.0_r2"
-    }
+    } 
 ]
