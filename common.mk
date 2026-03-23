@@ -389,13 +389,9 @@ endif
 # Overlays
 PRODUCT_PACKAGES += \
     EuiccSupportPixelOverlay \
-    FrameworkResOverlayProductGs201 \
+FrameworkResOverlayProductGs201 \
     FrameworkResOverlayVendorGs201 \
-    GlanceableHubConfigOverlay \
-    GlanceableHubSettingsConfigOverlay \
-    GlanceableHubSettingsConfigOverlay2022 \
-    GlanceableHubSysuiConfigOverlay \
-    GoogleConfigOverlay \
+        GoogleConfigOverlay \
     GooglePermissionControllerSafetyCenterOverlay \
     PixelConfigOverlay2019 \
     PixelConfigOverlay2021 \
